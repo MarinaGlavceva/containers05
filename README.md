@@ -76,6 +76,7 @@ CMD ["apachectl", "-D", "FOREGROUND"]
 ```sh
  docker run -d --name apache2-php-mariadb -p 8000:80 apache2-php-mariadb
 ```
+![Image](https://github.com/user-attachments/assets/8edf2d88-df06-4a4f-9eb1-8d885e89ac16)
 
 Проверила работу через `http://localhost:8000`.
 
