@@ -79,7 +79,7 @@ CMD ["apachectl", "-D", "FOREGROUND"]
 ![Image](https://github.com/user-attachments/assets/8edf2d88-df06-4a4f-9eb1-8d885e89ac16)
 
 Проверила работу через `http://localhost:8000`.
-
+![Image](https://github.com/user-attachments/assets/db09fa94-be06-45f6-913f-0b88fcbc2191)
 ---
 
 ### **4. Извлечение конфигурационных файлов**
