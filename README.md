@@ -70,6 +70,7 @@ CMD ["apachectl", "-D", "FOREGROUND"]
 ```sh
  docker build -t apache2-php-mariadb .
 ```
+![Image](https://github.com/user-attachments/assets/dc5c911e-4754-423c-9991-e3522e876fad)
 
 Запустила контейнер:
 ```sh
